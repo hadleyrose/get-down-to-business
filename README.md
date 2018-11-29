@@ -1,4 +1,4 @@
-![Mulan Pun]()
+![Mulan Pun](mulan_pun.jpg)
 # get-down-to-business
 [Dataquest.io](https://www.dataquest.io/) Guided Project: Answering Business Questions using SQL
 
